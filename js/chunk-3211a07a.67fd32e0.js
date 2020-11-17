@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3211a07a"],{ed35:function(e,n,t){},ee86:function(e,n,t){"use strict";t("ed35")},fd2d:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"Footer"},[e._v(" Подвал "+e._s(e.version)+" ")])},s=[],u={data:function(){return{version:"0.1a"}}},a=u,i=(t("ee86"),t("0c7c")),o=Object(i["a"])(a,c,s,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-3211a07a.67fd32e0.js.map

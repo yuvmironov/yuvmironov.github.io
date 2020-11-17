@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{bb51:function(t,e,o){"use strict";o.r(e);var n=function(){var t=this,e=t.$createElement,o=t._self._c||e;return o("div",{staticClass:"Home"},[o("menu",{staticClass:"Home-menu"},[o("router-link",{attrs:{to:"/todo"}},[t._v("ToDo List")]),o("router-link",{attrs:{to:"/job"}},[t._v("Find job")])],1),o("router-view")],1)},s=[],r=o("0c7c"),i={},u=Object(r["a"])(i,n,s,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=home.0a74f5a4.js.map
