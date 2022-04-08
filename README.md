@@ -1,1 +1,0 @@
-# yuvmironov.github.io
